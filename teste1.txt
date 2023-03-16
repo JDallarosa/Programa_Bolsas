@@ -1,1 +1,2 @@
 novo teste de pasta dentro do visual code.
+teste dentro de um branch novo que foi criado na pasta clonada.

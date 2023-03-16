@@ -1,2 +1,0 @@
-novo teste de pasta dentro do visual. 
-teste da funcionalidade merge dentro do branch main.
